@@ -168,7 +168,6 @@
                                     <li class="facebook"><a href="https://facebook.com/hello.i.am.masato">FaceBook</a>
                                     </li>
                                     <li class="note"><a href="https://note.mu/masatsch">note</a></li>
-                                    <li></li>
                                 </ul>
                             </div>
                         </p>
